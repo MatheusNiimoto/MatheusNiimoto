@@ -1,4 +1,4 @@
-Meu nome é Matheus Niimoto
+Meu nome é **Matheus Niimoto**
 
 - Estou estudando com a [Alura](https://www.alura.com.br)
 
